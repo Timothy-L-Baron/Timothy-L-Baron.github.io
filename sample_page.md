@@ -4,40 +4,42 @@
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-"""Make a random number generator for D&D statistics that generates 4d6 'take the best 3' results"""
-import random
-count = 0
+<pre style='color:#000000;background:#ffffff;'><span style='color:#696969; '>"""Make a random number generator for D&amp;D statistics that generates 4d6 'take the best 3' results"""</span>
+<span style='color:#800000; font-weight:bold; '>import</span> random
+count <span style='color:#808030; '>=</span> <span style='color:#008c00; '>0</span>
 
-#function to find the minimum roll
-def find_min(v1, v2, v3, v4):
-    scores = []
-    scores.append(v1)
-    scores.append(v2)
-    scores.append(v3)
-    scores.append(v4)
-    min_roll = min(scores)
-    return min_roll
+<span style='color:#696969; '>#function to find the minimum roll</span>
+<span style='color:#800000; font-weight:bold; '>def</span> find_min<span style='color:#808030; '>(</span>v1<span style='color:#808030; '>,</span> v2<span style='color:#808030; '>,</span> v3<span style='color:#808030; '>,</span> v4<span style='color:#808030; '>)</span><span style='color:#808030; '>:</span>
+    scores <span style='color:#808030; '>=</span> <span style='color:#808030; '>[</span><span style='color:#808030; '>]</span>
+    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v1<span style='color:#808030; '>)</span>
+    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v2<span style='color:#808030; '>)</span>
+    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v3<span style='color:#808030; '>)</span>
+    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v4<span style='color:#808030; '>)</span>
+    min_roll <span style='color:#808030; '>=</span> <span style='color:#400000; '>min</span><span style='color:#808030; '>(</span>scores<span style='color:#808030; '>)</span>
+    <span style='color:#800000; font-weight:bold; '>return</span> min_roll
 
-for score in range(6):
-    value1 = random.randint(1, 6)
-    value2 = random.randint(1, 6)
-    value3 = random.randint(1, 6)
-    value4 = random.randint(1, 6)
-    min_roll = find_min(value1, value2, value3, value4)
-    roll_total = value1 + value2 + value3 + value4 - min_roll
-    if count == 0:
-        print('S: {}'.format(roll_total))
-    if count == 1:
-        print('D: {}'.format(roll_total))
-    if count == 2:
-        print('C: {}'.format(roll_total))
-    if count == 3:
-        print('I: {}'.format(roll_total))
-    if count == 4:
-        print('W: {}'.format(roll_total))
-    if count == 5:
-        print('C: {}'.format(roll_total))
-    count = count + 1
+<span style='color:#800000; font-weight:bold; '>for</span> score <span style='color:#800000; font-weight:bold; '>in</span> <span style='color:#400000; '>range</span><span style='color:#808030; '>(</span><span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span><span style='color:#808030; '>:</span>
+    value1 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
+    value2 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
+    value3 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
+    value4 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
+    min_roll <span style='color:#808030; '>=</span> find_min<span style='color:#808030; '>(</span>value1<span style='color:#808030; '>,</span> value2<span style='color:#808030; '>,</span> value3<span style='color:#808030; '>,</span> value4<span style='color:#808030; '>)</span>
+    roll_total <span style='color:#808030; '>=</span> value1 <span style='color:#44aadd; '>+</span> value2 <span style='color:#44aadd; '>+</span> value3 <span style='color:#44aadd; '>+</span> value4 <span style='color:#44aadd; '>-</span> min_roll
+    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>0</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'S: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>1</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'D: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>2</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'C: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>3</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'I: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>4</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'W: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>5</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'C: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+    count <span style='color:#808030; '>=</span> count <span style='color:#44aadd; '>+</span> <span style='color:#008c00; '>1</span>
+</pre>
+<!--Created using ToHtml.com on 2020-01-10 23:52:54 UTC -->
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
