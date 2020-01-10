@@ -3,8 +3,6 @@ logo: "/images/timandsqueaky.png?raw=true" # your photo (or logo) here
 <br><br> 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am an informational professional interested in data science, libraries, databases, and computer programming.
-  <br><br> 
-  <br><br>
   <a href="https://www.linkedin.com/in/timbaroninfopro/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
