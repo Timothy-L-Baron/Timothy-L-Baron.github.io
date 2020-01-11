@@ -25,7 +25,7 @@
 
 ---
 
-[4d6 - Take Best 3 - Repeat 6 Times](http://example.com/)
+[Roll 4d6 - Take Best 3 - Repeat 6 Times](http://example.com/)
 
 ---
 
