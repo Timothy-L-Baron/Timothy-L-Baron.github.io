@@ -29,13 +29,13 @@
 
 ---
 
-### Category Name 2
+### Coursework Programs
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Coursera 1](http://example.com/)
+- [Coursera 2](http://example.com/)
+- [Coursera 3](http://example.com/)
+- [Coursera 4](http://example.com/)
+- [Coursera 5](http://example.com/)
 
 ---
 
