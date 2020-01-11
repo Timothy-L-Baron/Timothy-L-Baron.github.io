@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
