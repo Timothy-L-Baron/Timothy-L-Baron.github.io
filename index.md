@@ -5,7 +5,7 @@
 ### Basic Original Programs
 
 [Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
