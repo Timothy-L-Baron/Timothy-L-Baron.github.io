@@ -9,7 +9,7 @@
 
 ---
 
-[Test Title](/project2)
+[Choose A Genre, Get a Book Recommendation](/project2)
 
 
 ---
