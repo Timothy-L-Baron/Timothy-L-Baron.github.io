@@ -9,7 +9,7 @@
 
 ---
 
-[Project 2 Test Title](/project2.md)
+[Project 2 Test Title](/project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
