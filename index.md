@@ -7,7 +7,6 @@
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
 ---
 
 [Project 2 Test Title](/project2)
