@@ -9,8 +9,8 @@
 
 ---
 
-[Project 2 Test Title](/project2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Test Title](/project2)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
