@@ -17,8 +17,15 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Word Guessing Game](http://example.com/)
+
+---
+
+[Random Turtle Art Design](http://example.com/)
+
+---
+
+[4d6 - Take Best 3 - Repeat 6 Times](http://example.com/)
 
 ---
 
