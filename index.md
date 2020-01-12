@@ -34,7 +34,7 @@
 ---
 
 
-### Basic Original Data Science Programs
+### Basic Original Python Data Science Programs
 
 - [Data Science Project 1](http://example.com/)
 - [Data Science Project 2](http://example.com/)
@@ -45,7 +45,18 @@
 
 ---
 
-### Coursera Basic Python Coursework Programs
+### Basic Original Python Statistics Programs
+
+- [Stats Project 1](http://example.com/)
+- [Stats Science Project 2](http://example.com/)
+- [Stats Science Project 3](http://example.com/)
+- [Stats Science Project 4](http://example.com/)
+- [Stats Science Project 5](http://example.com/)
+
+
+---
+
+### Coursera Python Coursework Programs
 
 - [Coursera Basic Project 1](http://example.com/)
 - [Coursera Basic Project 2](http://example.com/)
@@ -62,6 +73,16 @@
 - [Data Science Project 3](http://example.com/)
 - [Data Science Project 4](http://example.com/)
 - [Data Science Project 5](http://example.com/)
+
+---
+
+### Coursera Python Statistics Coursework
+
+- [Stats Project 1](http://example.com/)
+- [Stats Science Project 2](http://example.com/)
+- [Stats Science Project 3](http://example.com/)
+- [Stats Science Project 4](http://example.com/)
+- [Stats Science Project 5](http://example.com/)
 
 ---
 
