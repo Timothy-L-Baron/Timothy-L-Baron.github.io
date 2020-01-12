@@ -91,6 +91,17 @@
 
 ---
 
+## Technical Writing: 
+
+---
+
+- [Tech Write 1](http://example.com/)
+- [Tech Write 2](http://example.com/)
+- [Tech Write 3](http://example.com/)
+
+
+---
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
