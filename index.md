@@ -96,7 +96,7 @@
 
 ---
 
-- [Academic 1](http://example.com/)
+- [Logistic Regression - Bones Identifitcation and Gender](https://github.com/Timothy-L-Baron/academic_earhart_bones)
 - [Academic 2](http://example.com/)
 
 
