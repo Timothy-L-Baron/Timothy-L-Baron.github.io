@@ -2,7 +2,7 @@
 
 ---
 
-### Basic Original Python Programs
+### Original Basic Python Programs
 
 [Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
 
@@ -21,7 +21,7 @@
 ---
 
 
-### Basic Original Python Data Science Programs
+### Original Basic Python Data Science Programs
 
 - [Data Science Project 1](http://example.com/)
 - [Data Science Project 2](http://example.com/)
@@ -31,7 +31,7 @@
 
 ---
 
-### Basic Original Python Statistics Programs
+### Original Basic Python Statistics Programs
 
 - [Stats Project 1](http://example.com/)
 - [Stats Project 2](http://example.com/)
