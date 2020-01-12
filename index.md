@@ -5,7 +5,7 @@
 ## Original Python Programs
 ---
 
-### Basic Python:
+### Basic:
 
 [Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
 
@@ -21,7 +21,7 @@
 
 [Yell At a Cat and Get Scratched](/project7)
 
-### Advanced Python: 
+### Advanced: 
 
 - [Advanced Project 1](http://example.com/)
 - [AdvancedProject 2](http://example.com/)
@@ -36,7 +36,7 @@
 
 
 
-### Statistics Programs:
+### Statistics:
 
 - [Stats Project 1](http://example.com/)
 - [Stats Project 2](http://example.com/)
@@ -47,13 +47,13 @@
 ## Coursera Python Coursework Programs
 ---
 
-### Basic Python:
+### Basic:
 
 - [Coursera Basic Project 1](http://example.com/)
 - [Coursera Basic Project 2](http://example.com/)
 - [Coursera Basic Project 3](http://example.com/)
 
-### Advanced Python: 
+### Advanced: 
 
 - [Advanced Project 1](http://example.com/)
 - [AdvancedProject 2](http://example.com/)
