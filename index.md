@@ -38,7 +38,7 @@
 
 - [Mathematics Project 1](http://example.com/)
 - [Mathematics Project 2](http://example.com/)
-- [Mathematicse Project 3](http://example.com/)
+- [Mathematics Project 3](http://example.com/)
 
 ### Physics: 
 
