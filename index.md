@@ -18,29 +18,29 @@
 ### Advanced: 
 
 - [Advanced Project 1](http://example.com/)
-- [Advanced Project 2](http://example.com/)
+
 
 
 ### Data Science: 
 
 - [Data Science Project 1](http://example.com/)
-- [Data Science Project 2](http://example.com/)
+
 
 ### Mathematics: 
 
 - [Mathematics Project 1](http://example.com/)
-- [Mathematics Project 2](http://example.com/)
+
 
 
 ### Physical Sciences: 
 
 - [Physics Project 1](http://example.com/)
-- [Physics Project 2](http://example.com/)
+
 
 ### Statistics:
 
 - [Stats Project 1](http://example.com/)
-- [Stats Project 2](http://example.com/)
+
 
 ---
 
@@ -50,24 +50,24 @@
 ### Basic:
 
 - [Coursera Basic Project 1](http://example.com/)
-- [Coursera Basic Project 2](http://example.com/)
+
 
 ### Advanced: 
 
 - [Advanced Project 1](http://example.com/)
-- [Advanced Project 2](http://example.com/)
+
 
 
 ### Data Science:
 
 - [Data Science Project 1](http://example.com/)
-- [Data Science Project 2](http://example.com/)
+
 
 
 ### Statistics:
 
 - [Stats Project 1](http://example.com/)
-- [Stats Project 2](http://example.com/)
+
 
 
 ---
@@ -77,7 +77,7 @@
 ---
 
 - [SQL Project 1](http://example.com/)
-- [SQL Project 2](http://example.com/)
+
 
 
 ---
