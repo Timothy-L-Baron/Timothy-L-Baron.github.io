@@ -1,4 +1,4 @@
-## Consonant and Vowel Counter
+## Choose a Genre - Get a Book Recommendation
 
 **Project description:** 
 This program takes user input (asking for book genre) and returns a book suggestion (title and author). The data
