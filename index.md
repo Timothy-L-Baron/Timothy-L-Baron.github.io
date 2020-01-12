@@ -37,6 +37,8 @@
 ### Basic Original Python Data Science Programs
 
 - [Data Science Project 1](http://example.com/)
+
+---
 - [Data Science Project 2](http://example.com/)
 - [Data Science Project 3](http://example.com/)
 - [Data Science Project 4](http://example.com/)
