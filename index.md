@@ -1,8 +1,8 @@
-## Python Portfolio
+## Programming Portfolio
 
 ---
 
-### Basic Original Programs
+### Basic Original Python Programs
 
 [Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
 
