@@ -1,9 +1,9 @@
 ## Unit Converter
 
 **Project description:** 
-This program takes user input (asking for book genre) and returns a book suggestion (title and author). The data
-used for book selection is stored in a spreadsheet called book_data.csv. The program case insensitive to user input.
-and returns an error message if they do not pick one of the available genres.
+This program that calculates unit equivalencies such as feet to meters,
+inches to centimeters, kg to pounds, grams to pounds, etc. It gives error messages for bad input. When the number is 1 is used,
+singular units are displayed in the output (ex. inch instead of inches).
 
 ### Program Code:
 
