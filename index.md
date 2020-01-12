@@ -100,7 +100,7 @@
 - [Dynamical Modeling with Diff EQ: Computer Controlled Car Stop](https://github.com/Timothy-L-Baron/dynamical_modeling_stop_car)
 - [Logistic Regression: Bone Identification - Amelia Earhart Case](https://github.com/Timothy-L-Baron/academic_earhart_bones)
 - [Optimization: Guitar Fretboard Movement](https://github.com/Timothy-L-Baron/optimiation_guitar_fretboard)
-- [Rotational Dynamics](https://github.com/Timothy-L-Baron/optimiation_guitar_fretboard)
+- [Rotational Dynamics](https://github.com/Timothy-L-Baron/rotational_dynamics)
 
 
 ---
