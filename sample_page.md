@@ -6,10 +6,7 @@ a magic word created by randomly shuffling the letters of the person's name
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-<pre style='color:#000000;background:#ffffff;'><span style='color:#696969; '>"""Program 1 for my portfolio - I want to write a program that will take as</span>
-<span style='color:#696969; '>input somebody's name and output the number of vowels and consonants. It will also output a magic word</span>
-<span style='color:#696969; '>created by randomly shuffling the letters of the person's name"""</span>
-<span style='color:#800000; font-weight:bold; '>import</span> random
+<pre style='color:#000000;background:#ffffff;'><span style='color:#800000; font-weight:bold; '>import</span> random
 
 <span style='color:#696969; '>#Need lists of vowels and consonants</span>
 vows <span style='color:#808030; '>=</span> <span style='color:#808030; '>[</span><span style='color:#0000e6; '>'a'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'e'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'i'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'o'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'u'</span><span style='color:#808030; '>]</span>
@@ -35,6 +32,11 @@ user_input <span style='color:#808030; '>=</span> <span style='color:#400000; '>
     <span style='color:#800000; font-weight:bold; '>for</span> letter <span style='color:#800000; font-weight:bold; '>in</span> magic_letters_lst<span style='color:#808030; '>:</span>
         magic_letters <span style='color:#808030; '>=</span> magic_letters <span style='color:#44aadd; '>+</span> letter
     <span style='color:#800000; font-weight:bold; '>return</span> <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'Your name has {} consonant(s) and {} vowel(s). </span><span style='color:#0f69ff; '>\n</span><span style='color:#0000e6; '>Your name forms the magic word: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>count_c<span style='color:#808030; '>,</span> count_v<span style='color:#808030; '>,</span> magic_letters<span style='color:#808030; '>.</span>upper<span style='color:#808030; '>(</span><span style='color:#808030; '>)</span><span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+
+
+cons_vow_counter<span style='color:#808030; '>(</span>user_input<span style='color:#808030; '>)</span>
+</pre>
+<!--Created using ToHtml.com on 2020-01-12 17:09:47 UTC -->
 
 
 cons_vow_counter<span style='color:#808030; '>(</span>user_input<span style='color:#808030; '>)</span>
