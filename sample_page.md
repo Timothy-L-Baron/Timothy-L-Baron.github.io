@@ -4,7 +4,7 @@
 An original program that will take as input somebody's name and output the number of vowels and consonants. It will also output 
 a magic word created by randomly shuffling the letters of the person's name
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Program Code:
 
 <pre style='color:#000000;background:#ffffff;'><span style='color:#800000; font-weight:bold; '>import</span> random
 
