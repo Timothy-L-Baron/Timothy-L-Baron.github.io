@@ -40,7 +40,7 @@
 - [Mathematics Project 2](http://example.com/)
 - [Mathematics Project 3](http://example.com/)
 
-### Physics: 
+### Physical Sciences: 
 
 - [Physics Project 1](http://example.com/)
 - [Physics Project 2](http://example.com/)
