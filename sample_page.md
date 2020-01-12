@@ -1,6 +1,8 @@
 ## Consonant and Vowel Counter
 
 **Project description:** 
+An original program that will take as input somebody's name and output the number of vowels and consonants. It will also output 
+a magic word created by randomly shuffling the letters of the person's name
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
@@ -38,14 +40,5 @@ user_input <span style='color:#808030; '>=</span> <span style='color:#400000; '>
 cons_vow_counter<span style='color:#808030; '>(</span>user_input<span style='color:#808030; '>)</span>
 </pre>
 <!--Created using ToHtml.com on 2020-01-12 17:05:05 UTC -->
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
