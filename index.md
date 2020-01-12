@@ -12,7 +12,7 @@
 - [Unit Converter](https://github.com/Timothy-L-Baron/unit_converter)
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
 - [Random Turtle Art Design](https://github.com/Timothy-L-Baron/turtle_art)
-- [Roll 4d6 - Take Best 3 - Repeat 6 Times](/project6)
+- [Roll 4d6 - Take Best 3 - Repeat 6 Times](https://github.com/Timothy-L-Baron/rand_dice1)
 - [Yell At a Cat and Get Scratched](/project7)
 
 ### Advanced: 
