@@ -86,8 +86,9 @@
 
 ---
 
+- [2nd Law of Thermodynamics Write Ups](http://example.com/)
 - [Comparison of Methyl Salicylate, Menthol, Capsaicin, and Lidocaine](https://github.com/Timothy-L-Baron/ingredient_compare1)
-- [Tech Write 2](http://example.com/)
+
 
 
 ---
