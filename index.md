@@ -24,8 +24,8 @@
 ### Advanced: 
 
 - [Advanced Project 1](http://example.com/)
-- [AdvancedProject 2](http://example.com/)
-- [AdvancedProject 3](http://example.com/)
+- [Advanced Project 2](http://example.com/)
+- [Advanced Project 3](http://example.com/)
 
 
 ### Data Science: 
