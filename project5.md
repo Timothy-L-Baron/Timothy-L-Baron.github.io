@@ -1,7 +1,7 @@
-## Choose a Genre - Get a Book Recommendation
+## Random Turtle Art
 
 **Project description:** 
-Turtle are with a lot of randomness resulting in a dizzying array of turtleness.
+Turtle art with a lot of randomness resulting in a dizzying array of turtleness.
 
 ### Program Code:
 
