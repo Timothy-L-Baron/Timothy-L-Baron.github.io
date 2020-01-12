@@ -2,7 +2,9 @@
 
 ---
 
-### Original Basic Python Programs
+## Original Basic Python Programs
+
+### Basic
 
 [Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
 
@@ -21,7 +23,7 @@
 ---
 
 
-### Original Basic Python Data Science Programs
+### Data Science 
 
 - [Data Science Project 1](http://example.com/)
 - [Data Science Project 2](http://example.com/)
@@ -31,7 +33,7 @@
 
 ---
 
-### Original Basic Python Statistics Programs
+### Statistics Programs
 
 - [Stats Project 1](http://example.com/)
 - [Stats Project 2](http://example.com/)
@@ -41,7 +43,9 @@
 
 ---
 
-### Coursera Python Coursework Programs
+## Coursera Python Coursework Programs
+
+### Basic
 
 - [Coursera Basic Project 1](http://example.com/)
 - [Coursera Basic Project 2](http://example.com/)
@@ -50,7 +54,7 @@
 
 ---
 
-### Coursera Python Data Science Coursework Programs
+### Data Science
 
 - [Data Science Project 1](http://example.com/)
 - [Data Science Project 2](http://example.com/)
@@ -59,7 +63,7 @@
 
 ---
 
-### Coursera Python Statistics Coursework Programs
+### Statistics
 
 - [Stats Project 1](http://example.com/)
 - [Stats Project 2](http://example.com/)
@@ -68,7 +72,7 @@
 
 ---
 
-### SQL Coursework Programs
+## SQL 
 
 - [SQL Project 1](http://example.com/)
 - [SQL Project 2](http://example.com/)
