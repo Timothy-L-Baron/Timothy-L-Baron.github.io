@@ -8,7 +8,7 @@
 ### Basic:
 
 - [Consonant and Vowel Counter That Spits Out Random Magic Word](https://github.com/Timothy-L-Baron/cons_vowel_counter)
-- [Choose a Genre - Get a Book Recommendation](https://github.com/Timothy-L-Baron/book_recommender/tree/master)
+- [Choose a Genre - Get a Book Recommendation](https://github.com/Timothy-L-Baron/book_recommender)
 - [Unit Converter](/project3)
 - [Word Guessing Game](/project4)
 - [Random Turtle Art Design](/project5)
