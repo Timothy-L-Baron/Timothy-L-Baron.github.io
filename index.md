@@ -97,7 +97,7 @@
 ---
 
 - [Academic 1](http://example.com/)
-- [Academic 2](http://example.com/
+- [Academic 2](http://example.com/)
 
 
 ---
