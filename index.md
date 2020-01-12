@@ -34,7 +34,23 @@
 - [Data Science Project 2](http://example.com/)
 - [Data Science Project 3](http://example.com/)
 
+### Games: 
 
+- [Game Project 1](http://example.com/)
+- [Game Project 2](http://example.com/)
+- [Game Project 3](http://example.com/)
+
+### Mathematics: 
+
+- [Mathematics Project 1](http://example.com/)
+- [Mathematics Project 2](http://example.com/)
+- [Mathematicse Project 3](http://example.com/)
+
+### Physics: 
+
+- [Physics Project 1](http://example.com/)
+- [Physics Project 2](http://example.com/)
+- [Physics Project 3](http://example.com/)
 
 ### Statistics:
 
