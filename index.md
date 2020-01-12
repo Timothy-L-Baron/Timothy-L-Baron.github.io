@@ -2,7 +2,7 @@
 
 ---
 
-## Original Python Programs
+## Original Python Programs:
 ---
 
 ### Basic:
@@ -44,7 +44,7 @@
 
 ---
 
-## Coursera Python Coursework Programs
+## Coursera Python Coursework:
 ---
 
 ### Basic:
