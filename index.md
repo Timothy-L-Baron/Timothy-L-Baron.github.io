@@ -98,8 +98,8 @@
 
 
 - [Analytic Hierarchy Process: FBI Ballistics - 1986 Miami Shootout](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
-- [Analytical Mechanics: Collisions Analyisis](https://github.com/Timothy-L-Baron/collisions_physics)
-- [Analytical Mechanics: Harmonic Motion Analyisis](https://github.com/Timothy-L-Baron/harmonic_motion_analysis)
+- [Analytical Mechanics: Collisions Analysis](https://github.com/Timothy-L-Baron/collisions_physics)
+- [Analytical Mechanics: Harmonic Motion Analysis](https://github.com/Timothy-L-Baron/harmonic_motion_analysis)
 - [Analytical Mechanics: Multicomponent Oscillators](https://github.com/Timothy-L-Baron/mult_comp_osc)
 - [Analytical Mechanics: Rotational Dynamics](https://github.com/Timothy-L-Baron/rotational_dynamics)
 - [Dynamical Modeling with Diff EQ: Computer Controlled Car Stop](https://github.com/Timothy-L-Baron/dynamical_modeling_stop_car)
