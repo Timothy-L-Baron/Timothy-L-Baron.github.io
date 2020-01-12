@@ -50,7 +50,7 @@
 
 ---
 
-### Coursera Data Science Coursework Programs
+### Coursera Python Data Science Coursework Programs
 
 - [Data Science Project 1](http://example.com/)
 - [Data Science Project 2](http://example.com/)
