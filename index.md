@@ -9,7 +9,7 @@
 
 - [Consonant and Vowel Counter That Spits Out Random Magic Word](https://github.com/Timothy-L-Baron/cons_vowel_counter)
 - [Choose a Genre - Get a Book Recommendation](https://github.com/Timothy-L-Baron/book_recommender)
-- [Unit Converter](/project3)
+- [Unit Converter](https://github.com/Timothy-L-Baron/unit_converter)
 - [Word Guessing Game](/project4)
 - [Random Turtle Art Design](/project5)
 - [Roll 4d6 - Take Best 3 - Repeat 6 Times](/project6)
