@@ -7,7 +7,7 @@
 
 ### Basic:
 
-- [Consonant and Vowel Counter That Spits Out Random Magic Word](/sample_page)
+- [Consonant and Vowel Counter That Spits Out Random Magic Word](https://github.com/Timothy-L-Baron/cons_vowel_counter)
 - [Choose a Genre - Get a Book Recommendation](/project2)
 - [Unit Converter](/project3)
 - [Word Guessing Game](/project4)
