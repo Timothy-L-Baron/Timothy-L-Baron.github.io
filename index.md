@@ -97,7 +97,7 @@
 ---
 
 - [Analytic Hierarchy Process - FBI Ballistics: 1986 Miami Shootout](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
-- [Dynamical Modeling with Diff EQ - Computer-controlled Stopping of a Car](https://github.com/Timothy-L-Baron/dynamical_modeling_stop_car)
+- [Dynamical Modeling with Diff EQ - Computer-controlled Car Stop](https://github.com/Timothy-L-Baron/dynamical_modeling_stop_car)
 - [Logistic Regression - Bone Identification: Amelia Earhart Case](https://github.com/Timothy-L-Baron/academic_earhart_bones)
 
 
