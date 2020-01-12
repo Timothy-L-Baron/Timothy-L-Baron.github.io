@@ -86,7 +86,7 @@
 
 ---
 
-- [Tech Write 1](http://example.com/)
+- [Comparison of Methyl Salicylate, Menthol, Capsaicin, and Lidocaine](http://example.com/)
 - [Tech Write 2](http://example.com/)
 
 
