@@ -17,7 +17,7 @@
 
 
 ---
-[Word Guessing Game](http://example.com/)
+[Word Guessing Game](/project4)
 
 ---
 
