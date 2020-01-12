@@ -2,7 +2,7 @@
 
 ---
 
-## Original Basic Python Programs
+## Original Python Programs
 ---
 
 ### Basic:
