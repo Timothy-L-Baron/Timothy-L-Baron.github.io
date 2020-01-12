@@ -33,7 +33,7 @@
 
 ---
 
-### Coursera Coursework
+### Coursera Coursework Programs
 
 - [Coursera 1](http://example.com/)
 - [Coursera 2](http://example.com/)
