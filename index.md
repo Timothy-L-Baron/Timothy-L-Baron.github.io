@@ -33,7 +33,7 @@
 
 ---
 
-### Coursework Programs
+### Coursera Coursework
 
 - [Coursera 1](http://example.com/)
 - [Coursera 2](http://example.com/)
@@ -44,6 +44,13 @@
 ---
 
 
+### SQL Coursework
+
+- [SQL 1](http://example.com/)
+- [SQL 2](http://example.com/)
+- [SQL 3](http://example.com/)
+- [SQL 4](http://example.com/)
+- [SQL 5](http://example.com/)
 
 
 ---
