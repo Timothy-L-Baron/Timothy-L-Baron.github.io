@@ -97,7 +97,7 @@
 ---
 
 - [Logistic Regression - Bones Identification & the Ameia Earhart Case](https://github.com/Timothy-L-Baron/academic_earhart_bones)
-- [Academic 2](http://example.com/)
+- [Analytic Hierarchy Process (AHP) and FBI Ballistics](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
 
 
 ---
