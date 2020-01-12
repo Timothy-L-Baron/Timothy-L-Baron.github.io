@@ -16,9 +16,9 @@
 
 [Roll 4d6 - Take Best 3 - Repeat 6 Times](/project6)
 
----
-
 [Yell At a Cat and Get Scratched](/project7)
+
+---
 
 
 ### Basic Original Python Data Science Programs
