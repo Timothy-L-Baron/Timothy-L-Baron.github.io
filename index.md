@@ -50,7 +50,7 @@
 
 ---
 
-### Coursera Data Science Coursework
+### Coursera Data Science Coursework Programs
 
 - [Data Science Project 1](http://example.com/)
 - [Data Science Project 2](http://example.com/)
@@ -59,7 +59,7 @@
 
 ---
 
-### Coursera Python Statistics Coursework
+### Coursera Python Statistics Coursework Programs
 
 - [Stats Project 1](http://example.com/)
 - [Stats Project 2](http://example.com/)
@@ -68,7 +68,7 @@
 
 ---
 
-### SQL Coursework
+### SQL Coursework Programs
 
 - [SQL Project 1](http://example.com/)
 - [SQL Project 2](http://example.com/)
