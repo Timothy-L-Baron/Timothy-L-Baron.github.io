@@ -96,7 +96,6 @@
 
 ---
 
-https://github.com/Timothy-L-Baron/collisions_physics
 
 - [Analytic Hierarchy Process: FBI Ballistics - 1986 Miami Shootout](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
 - [Analytical Mechanics: Collisions Analyisis](https://github.com/Timothy-L-Baron/collisions_physics)
