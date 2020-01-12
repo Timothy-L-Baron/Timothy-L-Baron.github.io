@@ -48,10 +48,10 @@
 ### Basic Original Python Statistics Programs
 
 - [Stats Project 1](http://example.com/)
-- [Stats Science Project 2](http://example.com/)
-- [Stats Science Project 3](http://example.com/)
-- [Stats Science Project 4](http://example.com/)
-- [Stats Science Project 5](http://example.com/)
+- [Stats Project 2](http://example.com/)
+- [Stats Project 3](http://example.com/)
+- [Stats Project 4](http://example.com/)
+- [Stats Project 5](http://example.com/)
 
 
 ---
