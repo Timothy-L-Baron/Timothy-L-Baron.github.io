@@ -1,7 +1,7 @@
 ## Consonant and Vowel Counter
 
 **Project description:** 
-An original program that will take as input somebody's name and output the number of vowels and consonants. It will also output 
+An original program that takes as input somebody's name and outputs the number of vowels and consonants. It also outputs 
 a magic word created by randomly shuffling the letters of the person's name
 
 ### Program Code:
