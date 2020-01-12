@@ -96,7 +96,7 @@
 
 ---
 
-- [Logistic Regression - Bones Identifitcation and Gender](https://github.com/Timothy-L-Baron/academic_earhart_bones)
+- [Logistic Regression - Bones Identification & the Ameia Earhart Case](https://github.com/Timothy-L-Baron/academic_earhart_bones)
 - [Academic 2](http://example.com/)
 
 
