@@ -1,53 +1,43 @@
-## Consonant and Voewl Counter
+## Consonant and Vowel Counter
 
 **Project description:** 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
-<pre style='color:#000000;background:#ffffff;'><span style='color:#696969; '>"""Make a random number generator for D&amp;D statistics that generates 4d6 'take the best 3' results"""</span>
+<pre style='color:#000000;background:#ffffff;'><span style='color:#696969; '>"""Program 1 for my portfolio - I want to write a program that will take as</span>
+<span style='color:#696969; '>input somebody's name and output the number of vowels and consonants. It will also output a magic word</span>
+<span style='color:#696969; '>created by randomly shuffling the letters of the person's name"""</span>
 <span style='color:#800000; font-weight:bold; '>import</span> random
-count <span style='color:#808030; '>=</span> <span style='color:#008c00; '>0</span>
 
-<span style='color:#696969; '>#function to find the minimum roll</span>
-<span style='color:#800000; font-weight:bold; '>def</span> find_min<span style='color:#808030; '>(</span>v1<span style='color:#808030; '>,</span> v2<span style='color:#808030; '>,</span> v3<span style='color:#808030; '>,</span> v4<span style='color:#808030; '>)</span><span style='color:#808030; '>:</span>
-    scores <span style='color:#808030; '>=</span> <span style='color:#808030; '>[</span><span style='color:#808030; '>]</span>
-    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v1<span style='color:#808030; '>)</span>
-    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v2<span style='color:#808030; '>)</span>
-    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v3<span style='color:#808030; '>)</span>
-    scores<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>v4<span style='color:#808030; '>)</span>
-    min_roll <span style='color:#808030; '>=</span> <span style='color:#400000; '>min</span><span style='color:#808030; '>(</span>scores<span style='color:#808030; '>)</span>
-    <span style='color:#800000; font-weight:bold; '>return</span> min_roll
+<span style='color:#696969; '>#Need lists of vowels and consonants</span>
+vows <span style='color:#808030; '>=</span> <span style='color:#808030; '>[</span><span style='color:#0000e6; '>'a'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'e'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'i'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'o'</span><span style='color:#808030; '>,</span> <span style='color:#0000e6; '>'u'</span><span style='color:#808030; '>]</span>
+cons <span style='color:#808030; '>=</span> <span style='color:#808030; '>[</span><span style='color:#0000e6; '>'b'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'c'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'d'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'f'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'g'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'h'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'j'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'k'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'l'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'m'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'n'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'p'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'q'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'r'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'s'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'t'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'v'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'w'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'x'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'y'</span><span style='color:#808030; '>,</span><span style='color:#0000e6; '>'z'</span><span style='color:#808030; '>]</span>
 
-<span style='color:#800000; font-weight:bold; '>for</span> score <span style='color:#800000; font-weight:bold; '>in</span> <span style='color:#400000; '>range</span><span style='color:#808030; '>(</span><span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span><span style='color:#808030; '>:</span>
-    value1 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
-    value2 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
-    value3 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
-    value4 <span style='color:#808030; '>=</span> random<span style='color:#808030; '>.</span>randint<span style='color:#808030; '>(</span><span style='color:#008c00; '>1</span><span style='color:#808030; '>,</span> <span style='color:#008c00; '>6</span><span style='color:#808030; '>)</span>
-    min_roll <span style='color:#808030; '>=</span> find_min<span style='color:#808030; '>(</span>value1<span style='color:#808030; '>,</span> value2<span style='color:#808030; '>,</span> value3<span style='color:#808030; '>,</span> value4<span style='color:#808030; '>)</span>
-    roll_total <span style='color:#808030; '>=</span> value1 <span style='color:#44aadd; '>+</span> value2 <span style='color:#44aadd; '>+</span> value3 <span style='color:#44aadd; '>+</span> value4 <span style='color:#44aadd; '>-</span> min_roll
-    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>0</span><span style='color:#808030; '>:</span>
-        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'S: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
-    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>1</span><span style='color:#808030; '>:</span>
-        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'D: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
-    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>2</span><span style='color:#808030; '>:</span>
-        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'C: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
-    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>3</span><span style='color:#808030; '>:</span>
-        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'I: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
-    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>4</span><span style='color:#808030; '>:</span>
-        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'W: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
-    <span style='color:#800000; font-weight:bold; '>if</span> count <span style='color:#44aadd; '>==</span> <span style='color:#008c00; '>5</span><span style='color:#808030; '>:</span>
-        <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'C: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>roll_total<span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
-    count <span style='color:#808030; '>=</span> count <span style='color:#44aadd; '>+</span> <span style='color:#008c00; '>1</span>
+<span style='color:#696969; '>#prompt user for input</span>
+user_input <span style='color:#808030; '>=</span> <span style='color:#400000; '>input</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>"please input your name:"</span><span style='color:#808030; '>)</span>
+
+<span style='color:#696969; '># function that counts the numer of vowels and consonants</span>
+<span style='color:#800000; font-weight:bold; '>def</span> cons_vow_counter<span style='color:#808030; '>(</span><span style='color:#400000; '>str</span><span style='color:#808030; '>)</span><span style='color:#808030; '>:</span>
+    count_c <span style='color:#808030; '>=</span> <span style='color:#008c00; '>0</span>
+    count_v <span style='color:#808030; '>=</span> <span style='color:#008c00; '>0</span>
+    magic_letters_lst <span style='color:#808030; '>=</span> <span style='color:#808030; '>[</span><span style='color:#808030; '>]</span>
+    <span style='color:#800000; font-weight:bold; '>for</span> letter <span style='color:#800000; font-weight:bold; '>in</span> <span style='color:#400000; '>str</span><span style='color:#808030; '>:</span>
+        <span style='color:#800000; font-weight:bold; '>if</span> letter <span style='color:#800000; font-weight:bold; '>in</span> vows<span style='color:#808030; '>:</span>
+            count_v <span style='color:#808030; '>=</span> count_v <span style='color:#44aadd; '>+</span> <span style='color:#008c00; '>1</span>
+            magic_letters_lst<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>letter<span style='color:#808030; '>)</span>
+        <span style='color:#800000; font-weight:bold; '>if</span> letter <span style='color:#800000; font-weight:bold; '>in</span> cons<span style='color:#808030; '>:</span>
+            count_c <span style='color:#808030; '>=</span> count_c <span style='color:#44aadd; '>+</span> <span style='color:#008c00; '>1</span>
+            magic_letters_lst<span style='color:#808030; '>.</span>append<span style='color:#808030; '>(</span>letter<span style='color:#808030; '>)</span>
+    random<span style='color:#808030; '>.</span>shuffle<span style='color:#808030; '>(</span>magic_letters_lst<span style='color:#808030; '>)</span>
+    magic_letters <span style='color:#808030; '>=</span> <span style='color:#0000e6; '>""</span>
+    <span style='color:#800000; font-weight:bold; '>for</span> letter <span style='color:#800000; font-weight:bold; '>in</span> magic_letters_lst<span style='color:#808030; '>:</span>
+        magic_letters <span style='color:#808030; '>=</span> magic_letters <span style='color:#44aadd; '>+</span> letter
+    <span style='color:#800000; font-weight:bold; '>return</span> <span style='color:#800000; font-weight:bold; '>print</span><span style='color:#808030; '>(</span><span style='color:#0000e6; '>'Your name has {} consonant(s) and {} vowel(s). </span><span style='color:#0f69ff; '>\n</span><span style='color:#0000e6; '>Your name forms the magic word: {}'</span><span style='color:#808030; '>.</span>format<span style='color:#808030; '>(</span>count_c<span style='color:#808030; '>,</span> count_v<span style='color:#808030; '>,</span> magic_letters<span style='color:#808030; '>.</span>upper<span style='color:#808030; '>(</span><span style='color:#808030; '>)</span><span style='color:#808030; '>)</span><span style='color:#808030; '>)</span>
+
+
+cons_vow_counter<span style='color:#808030; '>(</span>user_input<span style='color:#808030; '>)</span>
 </pre>
-<!--Created using ToHtml.com on 2020-01-10 23:52:54 UTC -->
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<!--Created using ToHtml.com on 2020-01-12 17:05:05 UTC -->
 
 ### 2. Assess assumptions on which statistical inference will be based
 
