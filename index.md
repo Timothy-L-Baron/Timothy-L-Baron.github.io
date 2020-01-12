@@ -1,4 +1,4 @@
-# Programming Portfolio
+# Technical Portfolio
 
 ---
 
