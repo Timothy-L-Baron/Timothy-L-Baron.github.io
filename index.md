@@ -3,6 +3,7 @@
 ---
 
 ## Original Basic Python Programs
+---
 
 ### Basic:
 
@@ -44,6 +45,7 @@
 ---
 
 ## Coursera Python Coursework Programs
+---
 
 ### Basic
 
@@ -73,6 +75,8 @@
 ---
 
 ## SQL 
+
+---
 
 - [SQL Project 1](http://example.com/)
 - [SQL Project 2](http://example.com/)
