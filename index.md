@@ -29,6 +29,8 @@
 
 - [Accumulator Using Filter, Function, and Lambda Expression](http://example.com/)
 - [Accumulator Using Zip](http://example.com/)
+- [Writing Complex Functions I](http://example.com/)
+- [Writing Complex Functions II](http://example.com/)
 
 
 ### Advanced: 
