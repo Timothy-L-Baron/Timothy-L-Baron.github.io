@@ -20,28 +20,6 @@
 - [Advanced Project 1](http://example.com/)
 
 
-
-### Data Science: 
-
-- [Data Science Project 1](http://example.com/)
-
-
-### Mathematics: 
-
-- [Mathematics Project 1](http://example.com/)
-
-
-
-### Physical Sciences: 
-
-- [Physics Project 1](http://example.com/)
-
-
-### Statistics:
-
-- [Stats Project 1](http://example.com/)
-
-
 ---
 
 ## Coursera Python Coursework:
