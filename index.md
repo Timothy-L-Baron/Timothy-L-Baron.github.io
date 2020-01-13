@@ -55,7 +55,7 @@
 
 ### Advanced: 
 
-- [Advanced Project 1](http://example.com/)
+- [Sentiment Classifier](http://example.com/)
 
 
 
