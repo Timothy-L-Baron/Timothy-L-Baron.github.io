@@ -49,7 +49,7 @@
 
 ### Basic:
 
-- [Accumulator Using FIlter, Function, and Lambda Expression](http://example.com/)
+- [Accumulator Using Filter, Function, and Lambda Expression](http://example.com/)
 
 
 ### Advanced: 
