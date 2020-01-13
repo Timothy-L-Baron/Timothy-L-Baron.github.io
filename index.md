@@ -29,8 +29,8 @@
 
 - [Accumulator Using Filter, Function, and Lambda Expression](http://example.com/)
 - [Accumulator Using Zip](http://example.com/)
-- [Writing Complex Function I](https://github.com/Timothy-L-Baron/comp_func1)
-- [Writing Complex Function II](https://github.com/Timothy-L-Baron/comp_func2)
+- [Coding Complex Function I](https://github.com/Timothy-L-Baron/comp_func1)
+- [Coding Complex Function II](https://github.com/Timothy-L-Baron/comp_func2)
 
 
 ### Advanced: 
