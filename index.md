@@ -88,7 +88,7 @@
 
 - [2nd Law of Thermodynamics Papers](https://github.com/Timothy-L-Baron/sec_law_thermo)
 - [Comparison of Methyl Salicylate, Menthol, Capsaicin, and Lidocaine](https://github.com/Timothy-L-Baron/ingredient_compare1)
-- [Locks and Strikes](https://github.com/Timothy-L-Baron/sec_law_thermo)
+- [Locks and Strikes](https://github.com/Timothy-L-Baron/locks_strikes)
 
 
 ---
