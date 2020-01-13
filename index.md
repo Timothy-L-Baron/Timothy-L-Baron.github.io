@@ -36,14 +36,6 @@
 - [Sentiment Classifier](https://github.com/Timothy-L-Baron/sent_class_coursera)
 
 
----
-
-## SQL: 
-
----
-
-- [SQL Project Coming Soon](http://example.com/)
-
 
 
 ---
