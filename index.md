@@ -55,7 +55,7 @@
 
 ### Advanced: 
 
-- [Sentiment Classifier](http://example.com/)
+- [Sentiment Classifier](https://github.com/Timothy-L-Baron/sent_class_coursera)
 
 
 
