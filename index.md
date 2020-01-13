@@ -50,6 +50,7 @@
 ### Basic:
 
 - [Accumulator Using Filter, Function, and Lambda Expression](http://example.com/)
+- [Accumulator Using Zip](http://example.com/)
 
 
 ### Advanced: 
