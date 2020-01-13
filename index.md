@@ -1,5 +1,7 @@
 # Technical Portfolio
 
+---
+
 ## Professional Programming Projects:
 
 ---
@@ -9,8 +11,6 @@
 
 - [BAroQUe: Bentley Audiovisual Quality control Utility](https://github.com/bentley-historical-library/baroque)
 
-
----
 
 
 ---
