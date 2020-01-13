@@ -38,7 +38,7 @@
 
 ---
 
-## Professional Projects (these use my work account:
+## Professional Programming Projects (these use my work account:
 
 - [BAroQUe: Bentley Audiovisual Quality control Utility](https://github.com/bentley-historical-library/baroque)
 
