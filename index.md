@@ -88,7 +88,7 @@
 
 - [2nd Law of Thermodynamics Papers](https://github.com/Timothy-L-Baron/sec_law_thermo)
 - [Comparison of Methyl Salicylate, Menthol, Capsaicin, and Lidocaine](https://github.com/Timothy-L-Baron/ingredient_compare1)
-- [Escrow Trust Auctioneers](https://github.com/Timothy-L-Baron/esc_trust_git)
+- [Escrow Trust Auctioneering](https://github.com/Timothy-L-Baron/esc_trust_git)
 - [Locks and Strikes (Doors)](https://github.com/Timothy-L-Baron/locks_strikes)
 - [Water Treatment - Oxidation](https://github.com/Timothy-L-Baron/oxidation)
 
