@@ -58,19 +58,6 @@
 - [Sentiment Classifier](https://github.com/Timothy-L-Baron/sent_class_coursera)
 
 
-
-### Data Science:
-
-- [Data Science Project 1](http://example.com/)
-
-
-
-### Statistics:
-
-- [Stats Project 1](http://example.com/)
-
-
-
 ---
 
 ## SQL: 
