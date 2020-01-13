@@ -36,6 +36,15 @@
 - [Sentiment Classifier](https://github.com/Timothy-L-Baron/sent_class_coursera)
 
 
+---
+
+## Professional Projects (these use my work account:
+
+- [BAroQUe: Bentley Audiovisual Quality control Utility](https://github.com/bentley-historical-library/baroque)
+
+
+---
+
 
 
 ---
