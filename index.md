@@ -38,13 +38,13 @@
 
 ---
 
-## Professional Programming Projects (these use my work account:
-
-- [BAroQUe: Bentley Audiovisual Quality control Utility](https://github.com/bentley-historical-library/baroque)
-
+## Professional Programming Projects:
 
 ---
 
+### Bentley Historical Library:
+
+- [BAroQUe: Bentley Audiovisual Quality control Utility](https://github.com/bentley-historical-library/baroque)
 
 
 ---
