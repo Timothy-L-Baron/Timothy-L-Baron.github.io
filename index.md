@@ -42,7 +42,7 @@
 
 ---
 
-- [SQL Project 1](http://example.com/)
+- [SQL Project Coming Soon](http://example.com/)
 
 
 
