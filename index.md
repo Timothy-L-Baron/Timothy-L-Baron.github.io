@@ -29,7 +29,7 @@
 
 - [Accumulator Using Filter, Function, and Lambda Expression](http://example.com/)
 - [Accumulator Using Zip](http://example.com/)
-- [Writing Complex Functions I](http://example.com/)
+- [Writing Complex Functions I](https://github.com/Timothy-L-Baron/comp_func1)
 - [Writing Complex Functions II](http://example.com/)
 
 
