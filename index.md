@@ -49,7 +49,7 @@
 
 ### Basic:
 
-- [Coursera Basic Project 1](http://example.com/)
+- [Accumulator Using FIlter, Function, and Lambda Expression](http://example.com/)
 
 
 ### Advanced: 
