@@ -55,7 +55,7 @@
 
 
 
-## Technical Writing: 
+## Technical Writing Samples: 
 
 ---
 
