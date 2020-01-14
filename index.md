@@ -41,7 +41,7 @@
 ### Basic:
 
 - [Accumulator Using Filter, Function, and Lambda Expression](https://github.com/Timothy-L-Baron/accum_filt_func_lamb)
-- [Accumulator Using Zip](http://example.com/)
+- [Accumulator Using Zip](https://github.com/Timothy-L-Baron/accum_zip)
 - [Coding Complex Functions I](https://github.com/Timothy-L-Baron/comp_func1)
 - [Coding Complex Functions II](https://github.com/Timothy-L-Baron/comp_func2)
 
