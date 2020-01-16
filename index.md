@@ -29,6 +29,7 @@
 
 ### Advanced: 
 
+- [Textantasy](https://github.com/Timothy-L-Baron/word_guess1)
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
 
 
