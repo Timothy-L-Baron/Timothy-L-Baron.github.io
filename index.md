@@ -67,6 +67,20 @@
 - [Water Treatment - Oxidation](https://github.com/Timothy-L-Baron/oxidation)
 
 
+
+---
+
+
+
+## Technical Video Samples: 
+
+---
+
+- [How to Remove Red Loctite](https://www.youtube.com/watch?v=lvpyQIlZCYU)
+- [Water Treatment - Oxidation](https://github.com/Timothy-L-Baron/oxidation)
+
+
+
 ---
 
 ## Academic Projects: 
