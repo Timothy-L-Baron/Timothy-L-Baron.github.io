@@ -18,7 +18,7 @@
 ## Original Python Programs:
 ---
 
-### Basic:
+### Basic Personal Projects:
 
 - [Consonant and Vowel Counter That Spits Out Random Magic Word](https://github.com/Timothy-L-Baron/cons_vowel_counter)
 - [Choose a Genre - Get a Book Recommendation](https://github.com/Timothy-L-Baron/book_recommender)
@@ -27,7 +27,7 @@
 - [Roll 4d6 - Take Best 3 - Repeat 6 Times](https://github.com/Timothy-L-Baron/rand_dice1)
 - [Yell At a Cat and Get Scratched](/project7)
 
-### Advanced: 
+### Advanced Personal Projects: 
 
 - [Textantasy](https://github.com/Timothy-L-Baron/textantasy)
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
