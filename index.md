@@ -65,7 +65,26 @@
 
 ---
 
+## Academic Projects: 
 
+---
+
+
+- [Analytic Hierarchy Process: FBI Ballistics - 1986 Miami Shootout](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
+- [Analytical Mechanics Lab: Collisions Analysis](https://github.com/Timothy-L-Baron/collisions_physics)
+- [Analytical Mechanics Lab: Harmonic Motion Analysis](https://github.com/Timothy-L-Baron/harmonic_motion_analysis)
+- [Analytical Mechanics Lab: Multicomponent Oscillators Analysis](https://github.com/Timothy-L-Baron/mult_comp_osc)
+- [Analytical Mechanics Lab: Rotational Dynamics Analysis](https://github.com/Timothy-L-Baron/rotational_dynamics)
+- [Dynamical Modeling with Diff EQ: Computer Controlled Car Stop](https://github.com/Timothy-L-Baron/dynamical_modeling_stop_car)
+- [Optimization: Ambulance Positions](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Optimization: Finger Movement Across Guitar Fretboard](https://github.com/Timothy-L-Baron/optimiation_guitar_fretboard)
+- [Stats: Logistic Regression - Bone Identification - Amelia Earhart Case](https://github.com/Timothy-L-Baron/academic_earhart_bones)
+
+
+
+
+
+---
 
 ---
 
@@ -100,26 +119,7 @@
 
 ---
 
-## Academic Projects: 
 
----
-
-
-- [Analytic Hierarchy Process: FBI Ballistics - 1986 Miami Shootout](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
-- [Analytical Mechanics Lab: Collisions Analysis](https://github.com/Timothy-L-Baron/collisions_physics)
-- [Analytical Mechanics Lab: Harmonic Motion Analysis](https://github.com/Timothy-L-Baron/harmonic_motion_analysis)
-- [Analytical Mechanics Lab: Multicomponent Oscillators Analysis](https://github.com/Timothy-L-Baron/mult_comp_osc)
-- [Analytical Mechanics Lab: Rotational Dynamics Analysis](https://github.com/Timothy-L-Baron/rotational_dynamics)
-- [Dynamical Modeling with Diff EQ: Computer Controlled Car Stop](https://github.com/Timothy-L-Baron/dynamical_modeling_stop_car)
-- [Optimization: Ambulance Positions](https://github.com/Timothy-L-Baron/amb_pos_opt)
-- [Optimization: Finger Movement Across Guitar Fretboard](https://github.com/Timothy-L-Baron/optimiation_guitar_fretboard)
-- [Stats: Logistic Regression - Bone Identification - Amelia Earhart Case](https://github.com/Timothy-L-Baron/academic_earhart_bones)
-
-
-
-
-
----
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
