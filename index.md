@@ -35,7 +35,7 @@
 
 ---
 
-## Coursera Python Coursework:
+## Coursera Python Completed Coursework:
 ---
 
 ### Basic:
