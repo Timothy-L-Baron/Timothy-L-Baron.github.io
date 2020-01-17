@@ -101,6 +101,23 @@
 
 
 
+---
+
+## Coursera Certificates:
+
+- [Introduction to SQL](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Using Python to Access Web Data](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Python Basics](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Python Data Structures](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Python Functions, Files, & DictionarieL](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Data Collection & Processing with Python](https://github.com/Timothy-L-Baron/amb_pos_opt)
+
+
+
+---
+
+
+
 
 ---
 
