@@ -104,13 +104,13 @@
 ---
 
 ## Completed Coursera Certificates:
-
-- [Python Basics](https://github.com/Timothy-L-Baron/amb_pos_opt)
-- [Using Python to Access Web Data](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/LGHP7YVNENX4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
+- [Python Basics](https://www.coursera.org/account/accomplishments/certificate/Q2BTNCXDEGTH?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
+- [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/NCKN4F58WWZ4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/GGDAHM28FCJY?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
-- [Python Functions, Files, & DictionarieL](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Python Functions, Files, & DictionarieL](https://www.coursera.org/account/accomplishments/certificate/N5JKZKP2TMLF?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Data Collection & Processing with Python](https://github.com/Timothy-L-Baron/amb_pos_opt)
-- [Introduction to SQL](https://github.com/Timothy-L-Baron/amb_pos_opt)
+- [Introduction to SQL](https://www.coursera.org/account/accomplishments/certificate/43U5W4G2KLDS?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 
 
 ---
