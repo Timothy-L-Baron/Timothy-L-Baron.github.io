@@ -35,7 +35,7 @@
 
 ---
 
-## Coursera Python Coursework Samples:
+## Coursera Python Coursework:
 ---
 
 ### Basic:
