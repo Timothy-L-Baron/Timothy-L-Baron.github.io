@@ -55,6 +55,7 @@
 ## Completed Coursera Certificates:
 
 ---
+### Python:
 
 - [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/LGHP7YVNENX4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Python Basics](https://www.coursera.org/account/accomplishments/certificate/Q2BTNCXDEGTH?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
@@ -62,6 +63,10 @@
 - [Python Functions, Files, & Dictionaries](https://www.coursera.org/account/accomplishments/certificate/N5JKZKP2TMLF?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Data Collection & Processing with Python](https://www.coursera.org/account/accomplishments/certificate/YBT34HYJF8WT?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/NCKN4F58WWZ4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
+
+
+### SQL:
+
 - [Introduction to SQL](https://www.coursera.org/account/accomplishments/certificate/43U5W4G2KLDS?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 
 
