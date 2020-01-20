@@ -53,6 +53,9 @@
 ---
 
 ## Completed Coursera Certificates:
+
+---
+
 - [Getting Started with Python](https://www.coursera.org/account/accomplishments/certificate/LGHP7YVNENX4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Python Basics](https://www.coursera.org/account/accomplishments/certificate/Q2BTNCXDEGTH?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/GGDAHM28FCJY?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
