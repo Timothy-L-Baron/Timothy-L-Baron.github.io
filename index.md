@@ -28,7 +28,7 @@
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
 - [Yell At a Cat and Get Scratched](/project7)
 
-### Advanced Personal Projects: 
+### Intermediate Personal Projects: 
 
 - [Textantasy](https://github.com/Timothy-L-Baron/textantasy)
 
@@ -46,7 +46,7 @@
 - [Coding Complex Functions II](https://github.com/Timothy-L-Baron/comp_func2)
 
 
-### Advanced: 
+### Intermediate: 
 
 - [Sentiment Classifier](https://github.com/Timothy-L-Baron/sent_class_coursera)
 
