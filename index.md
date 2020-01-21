@@ -65,7 +65,7 @@
 - [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/NCKN4F58WWZ4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 
 
-### SQL:
+### SQL & Databases:
 
 - [Introduction to SQL](https://www.coursera.org/account/accomplishments/certificate/43U5W4G2KLDS?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long)
 
