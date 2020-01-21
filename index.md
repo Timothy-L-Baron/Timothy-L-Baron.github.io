@@ -72,7 +72,7 @@
 
 ---
 
-## Academic Projects: 
+## Academic Math & Science Projects: 
 
 ---
 
