@@ -29,6 +29,7 @@
 
 ### Intermediate Personal Projects: 
 
+- [REST_API Datamuse/OMDB Project](https://github.com/Timothy-L-Baron/textantasy)
 - [Textantasy](https://github.com/Timothy-L-Baron/textantasy)
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
 
