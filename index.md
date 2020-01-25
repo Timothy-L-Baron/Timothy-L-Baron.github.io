@@ -31,7 +31,7 @@
 
 - [REST API Datamuse-OMDB](https://github.com/Timothy-L-Baron/rest_api_dmuse_omdb)
 - [Textantasy](https://github.com/Timothy-L-Baron/textantasy)
-- [Unit Converter APP with GUI](https://github.com/Timothy-L-Baron/unit_converter_gui_app)
+- [Unit Converter App with GUI](https://github.com/Timothy-L-Baron/unit_converter_gui_app)
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
 
 ---
