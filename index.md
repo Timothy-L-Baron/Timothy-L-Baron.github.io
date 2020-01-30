@@ -30,9 +30,12 @@
 ### Intermediate Personal Projects: 
 
 - [REST API Datamuse-OMDB](https://github.com/Timothy-L-Baron/rest_api_dmuse_omdb)
-- [Textantasy](https://github.com/Timothy-L-Baron/textantasy)
 - [Unit Converter App with GUI](https://github.com/Timothy-L-Baron/unit_converter_gui_app)
 - [Word Guessing Game](https://github.com/Timothy-L-Baron/word_guess1)
+
+### Advanced Personal Projects: 
+
+- [Textantasy](https://github.com/Timothy-L-Baron/textantasy)
 
 ---
 
