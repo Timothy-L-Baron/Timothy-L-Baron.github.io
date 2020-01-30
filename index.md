@@ -102,7 +102,7 @@
 
 
 
-## Technical Writing Samples: 
+## Professional Technical Writing Samples: 
 
 ---
 
