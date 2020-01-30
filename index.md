@@ -119,17 +119,7 @@
 
 
 
-## Technical Video Samples: 
 
----
-
-- [How to Remove a Damaged Screw](https://www.youtube.com/watch?v=QK32YsQNss8)
-- [How to Remove Red Loctite](https://www.youtube.com/watch?v=lvpyQIlZCYU)
-
-
-
-
----
 
 
 
