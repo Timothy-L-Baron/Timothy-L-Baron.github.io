@@ -77,7 +77,7 @@
 
 ---
 
-## Academic Applied Math & Science Projects: 
+## Academic Applied Math & Physical Sciences Projects: 
 
 ---
 
