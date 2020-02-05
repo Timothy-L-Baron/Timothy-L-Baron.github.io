@@ -82,7 +82,6 @@
 ---
 
 
-- [Analytic Hierarchy Process: FBI Ballistics - 1986 Miami Shootout](https://github.com/Timothy-L-Baron/analytic_hierarchy_ballistic)
 - [Analytical Mechanics Lab: Collisions Analysis](https://github.com/Timothy-L-Baron/collisions_physics)
 - [Analytical Mechanics Lab: Harmonic Motion Analysis](https://github.com/Timothy-L-Baron/harmonic_motion_analysis)
 - [Analytical Mechanics Lab: Multicomponent Oscillators Analysis](https://github.com/Timothy-L-Baron/mult_comp_osc)
