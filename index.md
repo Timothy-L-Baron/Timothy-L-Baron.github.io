@@ -108,7 +108,7 @@
 - [Comparison of Methyl Salicylate, Menthol, Capsaicin, and Lidocaine](https://github.com/Timothy-L-Baron/ingredient_compare1)
 - [Escrow Trust Auctioneering](https://github.com/Timothy-L-Baron/esc_trust_git)
 - [Ethics in Auctioneering](https://github.com/Timothy-L-Baron/ethics_auc)
-- [Locks and Strikes (Doors)](https://github.com/Timothy-L-Baron/locks_strikes)
+- [Locks and Strikes (Door Security)](https://github.com/Timothy-L-Baron/locks_strikes)
 - [Water Treatment - Oxidation](https://github.com/Timothy-L-Baron/oxidation)
 
 
