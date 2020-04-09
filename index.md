@@ -75,7 +75,7 @@
 
 ### SQL & Databases (Coursera):
 
-- [Tableau Essential Training](www.linkedin.com/in/timbaroninfopro)
+- [Tableau Essential Training](https://www.linkedin.com/in/timbaroninfopro/)
 
 
 
