@@ -9,7 +9,7 @@
 ### Bentley Historical Library:
 
 
-- [BAroQUe: Bentley Audiovisual Quality control Utility](https://github.com/bentley-historical-library/baroque)
+- [BAroQUe: Bentley Audiovisual Quality Control Utility](https://github.com/bentley-historical-library/baroque)
 
 
 
